@@ -41,6 +41,10 @@
 ## 🛠 Почему стоит использовать эти решения?
 * **Формат .pkt:** Файлы открываются в любой версии Cisco Packet Tracer.
 * **Экономия времени:** Вам не нужно вручную собирать топологии и прописывать сотни команд в консоли.
+  
+  <img width="1117" height="830" alt="image" src="https://github.com/user-attachments/assets/1cc63966-b3fd-4752-8031-a213c0ddca48" />
+<img width="942" height="694" alt="image" src="https://github.com/user-attachments/assets/c3800b0c-1017-4326-be06-31636a828353" />
+
 <img width="923" height="579" alt="image" src="https://github.com/user-attachments/assets/793de592-de5f-4b34-a954-64e436652c69" />
 
 ---
